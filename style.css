@@ -172,11 +172,11 @@
   }
 
 
-  .feature-image {
+.feature-image {
     height: 550px;
   }
   
-  .feature-text {
+.feature-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -185,7 +185,7 @@
     width: 50%;
   }
   
-  .feature-title {
+.feature-title {
     color:rgb(88, 204, 2);
     font-family: feather, sans-serif;
     font-size: 36px;
@@ -194,7 +194,7 @@
     max-width: 340px;
   }
   
-  .feature-description {
+.feature-description {
     color: rgb(119, 119, 119);
     font-size: 17px;
     line-height: 24px;
