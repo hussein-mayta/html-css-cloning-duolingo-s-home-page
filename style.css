@@ -153,3 +153,20 @@
     height: 30px;
     width: 40px;
   }
+
+
+  /* Features  */
+
+.feature {
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+   
+  }
+  
+.feature1 , .feature2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 60px 20px;
+  }
