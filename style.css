@@ -20,3 +20,36 @@
     
     padding: 10px;
   }
+
+    /* nav  */
+    .nav {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 300px;
+      }
+      
+      /* Logo image */
+      .logo {
+        height: 40px;
+      }
+      
+      /* Language Button */
+      .language-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background-color: rgb(255, 255, 255); 
+        border: 2px solid transparent;
+        color: darkgray;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        padding: 6px 12px;
+      }
+    
+      /* Arrow image */
+      .language-arrow {
+        width: 12px;
+        height: auto;
+      }
