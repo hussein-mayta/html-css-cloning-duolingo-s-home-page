@@ -216,3 +216,24 @@
     font-size: 36px;
     color: #75b14a;
   }
+
+
+.download {
+    padding: 10px;
+    display: flex;
+    gap: 50px;
+  }
+  
+.download a {
+    background-color: lightgray;
+    color: gray;
+    border-radius: 8px;
+    height: 80px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+  
+  }
