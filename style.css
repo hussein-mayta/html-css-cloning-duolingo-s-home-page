@@ -170,3 +170,32 @@
     align-items: center;
     padding: 60px 20px;
   }
+
+
+  .feature-image {
+    height: 550px;
+  }
+  
+  .feature-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap :50px;
+    width: 50%;
+  }
+  
+  .feature-title {
+    color:rgb(88, 204, 2);
+    font-family: feather, sans-serif;
+    font-size: 36px;
+    line-height: normal;
+    margin: 0;
+    max-width: 340px;
+  }
+  
+  .feature-description {
+    color: rgb(119, 119, 119);
+    font-size: 17px;
+    line-height: 24px;
+  }
