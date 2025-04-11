@@ -199,3 +199,20 @@
     font-size: 17px;
     line-height: 24px;
   }
+
+.footer {
+    height: 200px;
+    background-color: rgb(144, 248, 65);
+    border-top: 2px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+  }
+  
+.footer-header {
+    font-family: feather, sans-serif;
+    font-size: 36px;
+    color: #75b14a;
+  }
