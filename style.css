@@ -53,3 +53,28 @@
         width: 12px;
         height: auto;
       }
+
+        /* Hero */
+
+.hero {
+    max-width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+  }
+  
+  .hero-img {
+    height: 500px;
+  }
+  
+.hero-text {
+    max-width: 400px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  
+  }
